@@ -1,1 +1,1 @@
-# ts-basics
+# NO BS TS
